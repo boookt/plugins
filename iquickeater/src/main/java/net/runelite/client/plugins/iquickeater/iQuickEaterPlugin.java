@@ -50,7 +50,7 @@ import java.util.Set;
 @PluginDescriptor(
         name = "iQuick Eater",
         enabledByDefault = false,
-        description = "Illumine - auto eat food and drink some potions below configured values",
+        description = "Illumine - auto eat food and drink some potions below configured values + overload",
         tags = {"illumine", "auto", "bot", "eat", "food", "potions", "stamina", "prayer"}
 )
 @Slf4j
